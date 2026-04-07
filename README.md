@@ -1,3 +1,7 @@
+# Pedro Gomes
+
+---
+
 ## Coding languages
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -22,6 +26,17 @@ I am currently exploring and learning to use industry-standard cybersecurity and
 [![Dirb](https://img.shields.io/badge/Dirb-000000?style=for-the-badge&logo=linux&logoColor=white)](https://tools.kali.org/web-applications/dirb)
 [![Zphisher](https://img.shields.io/badge/Zphisher-8B0000?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/htr-tech/zphisher)
 [![theHarvester](https://img.shields.io/badge/theHarvester-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://github.com/laramies/theHarvester)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+
+---
+
+### Currently Learning
+
+Web Application Security (OWASP Top 10)
+
+Network Scanning & Enumeration
+
+Python for Security Automation
 
 
 
