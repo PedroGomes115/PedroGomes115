@@ -26,7 +26,6 @@ I am currently exploring and learning to use industry-standard cybersecurity and
 [![Dirb](https://img.shields.io/badge/Dirb-000000?style=for-the-badge&logo=linux&logoColor=white)](https://tools.kali.org/web-applications/dirb)
 [![Zphisher](https://img.shields.io/badge/Zphisher-8B0000?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/htr-tech/zphisher)
 [![theHarvester](https://img.shields.io/badge/theHarvester-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://github.com/laramies/theHarvester)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
 ---
 
