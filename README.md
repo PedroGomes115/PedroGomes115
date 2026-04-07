@@ -1,13 +1,20 @@
 
-# Coding languages
-.
+## Coding languages
+
+
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
+
 ## Cybersecurity Tools 
-.
+
+
+
 I am currently exploring and learning to use industry-standard cybersecurity and penetration testing tools.
-.
+
+
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white)
@@ -23,3 +30,6 @@ I am currently exploring and learning to use industry-standard cybersecurity and
 
 
 ---
+
+
+
