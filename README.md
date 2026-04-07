@@ -38,5 +38,7 @@ Network Scanning & Enumeration
 
 Python for Security Automation
 
+Learning C
+
 
 
